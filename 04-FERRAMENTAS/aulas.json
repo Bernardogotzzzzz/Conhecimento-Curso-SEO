@@ -1,0 +1,24 @@
+{
+  "M04": {"pasta": "04-dominando-painel-gmn", "aulas": [
+    ["A01", "Editar Perfil", null], ["A02", "Editar Perfil Parte 2", "06:41"], ["A03", "Ler Avaliacoes e Fotos", "13:41"],
+    ["A04", "Postagens e Desempenho", "17:47"], ["A05", "Desempenho", "05:50"], ["A06", "Produtos", "13:37"],
+    ["A07", "Servicos", "06:00"], ["A08", "Outros menus", "12:01"], ["A09", "Deixando a Forca do Perfil Verde", "03:49"],
+    ["A10", "Como assumir um perfil que ja existe", "11:50"], ["A11", "Local Guide e Denuncias e Sugestoes", "13:02"],
+    ["A12", "Teste de Posicionamento Local", "09:57"]]},
+  "M11": {"pasta": "11-servico-recorrente-e-relatorio", "aulas": [
+    ["A01", "O que e o servico recorrente", null], ["A02", "A rotina mensal de gestao", "11:00"], ["A03", "A rotina mensal de gestao parte 2", "13:13"],
+    ["A04", "A skill que escreve as postagens do mes", "19:38"], ["A05", "As metricas do Painel e a imprecisao dos numeros", "08:49"],
+    ["A06", "GBPCheck Relatorios - Analise da Saude", "10:41"], ["A07", "GBPCheck Relatorios - Analise de Ranking", "14:24"],
+    ["A08", "GBPCheck - Historico de Analises", "03:30"], ["A09", "GBPCheck - Visualizacao das Metricas", "13:35"],
+    ["A10", "GBPCheck - Relatorio Avancado", "17:54"]]},
+  "M12": {"pasta": "12-precificacao-proposta-contrato", "aulas": [
+    ["A01", "Preciso de CNPJ para comecar", null], ["A02", "Como e quanto cobrar", "07:10"], ["A03", "Como e quanto cobrar Parte 2", "16:32"],
+    ["A04", "Como e quanto cobrar Parte 3", "10:27"], ["A05", "Proposta comercial com GBPCheck - Skill Proposta", "19:50"],
+    ["A06", "Proposta Comercial Perfil Existente", "07:05"], ["A07", "Contrato e Formalizacao - Skill de Contrato", "14:53"]]},
+  "M13": {"pasta": "13-prospeccao", "aulas": [
+    ["A01", "O case como porta de entrada", null], ["A02", "Posso atender concorrentes do mesmo nicho", "05:30"],
+    ["A03", "Onde estao os clientes - Buscar Leads", "18:57"], ["A04", "Organizando a prospeccao - planilha CRM", "14:27"],
+    ["A05", "Caminho 1 - Whatsapp Instagram Telefone Parte 1", "16:02"], ["A06", "Caminho 1 - Whatsapp Instagram Telefone Parte 2", "16:01"],
+    ["A07", "Caminho 2 - PaP e relatorio impresso Parte 1", "10:47"], ["A08", "Caminho 2 - PaP e relatorio impresso Parte 2", "16:22"],
+    ["A09", "Na Rua com Luciano", "04:54"]]}
+}
