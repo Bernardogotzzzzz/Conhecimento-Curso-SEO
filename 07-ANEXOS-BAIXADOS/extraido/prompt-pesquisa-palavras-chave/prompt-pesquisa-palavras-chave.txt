@@ -1,0 +1,10 @@
+Você tem o DataForSEO conectado. Faça uma pesquisa completa de palavras-chave para [SEGMENTO, ex: advocacia trabalhista e previdenciária] na cidade de [CIDADE, ex: Joinville]. Os serviços reais do cliente são: [LISTE OS SERVIÇOS].
+
+REGRAS TÉCNICAS DE CONSULTA (siga na ordem):
+1. Antes de tudo, chame o endpoint de localizações do Google Ads (country_iso_code: BR) e pegue o location_name EXATO da cidade. O formato é "Cidade,State of [Estado],Brazil". Nunca chute esse valor.
+2. Volume nacional: endpoint de search volume do Google Ads, location_name "Brazil", language_code "pt".
+3. Volume local: MESMO endpoint, trocando só o location_name pela cidade. Use os termos SEM a cidade escrita.
+4. Termos relacionados: endpoint de related keywords do Labs. Esse aceita SOMENTE país, use "Brazil". Filtre por volume maior que 100 e ordene por volume decrescente.
+5. Se algum termo voltar sem dado, registre como "sem dado" e siga. Não invente número e não aborte.
+
+Depois, monte um relatório em HTML de página única, visualmente profissional e NEUTRO (sem nome de empresa nem logo, com espaço reservado no topo para eu inserir a minha marca depois). O relatório deve conter, em ordem: título com o segmento e a cidade; um resumo do tamanho do mercado; uma tabela com os termos, volume nacional, volume local e concorrência; um destaque dos termos de oportunidade (bom volume, baixa concorrência); e um fechamento com o retrato da demanda local. Use um visual limpo e cores sóbrias. Entregue o HTML em um único arquivo pronto para abrir no navegador.
